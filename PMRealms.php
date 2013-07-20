@@ -75,4 +75,4 @@ class PMRealms implements Plugin{
 		$this->config->save();
 	}
 
-}
+
